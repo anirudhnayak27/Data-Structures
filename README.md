@@ -3,7 +3,7 @@ Data structures in C language.
 
 |Contents|       |
 |--------|-------|
-|Linked Lists|[Singly Linked List]((Linked%20lists/Singly%20linked%20list))|
+|Linked Lists|[Singly Linked List]((https://github.com/anirudhnayak27/Data-Structures/tree/bbefe387428f928585a8ca42093fb21b839387f4/Linked%20lists/Singly%20linked%20list))|
 |||
 |||
 |||
