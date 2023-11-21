@@ -11,7 +11,7 @@ Data structures in C language.
 |Graphs|[Graphs](https://github.com/anirudhnayak27/Data-Structures/tree/a4817eb86509109f7b7f7590424543a10b9282f1/Graphs)|
 |Trees|[Trees(Binary)](https://github.com/anirudhnayak27/Data-Structures/tree/a4817eb86509109f7b7f7590424543a10b9282f1/Trees)|
 ||[AVL Trees](https://github.com/anirudhnayak27/Data-Structures/tree/a4817eb86509109f7b7f7590424543a10b9282f1/Trees/AVL_tree)|
-
+|Non-Linear DSA Problems|[Problems](https://github.com/anirudhnayak27/Data-Structures/tree/bb193eff6169e84a9e384336964165d609390748/Non-Linear-DSA-problems)|
 
 
 
